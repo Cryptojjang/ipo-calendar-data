@@ -765,6 +765,28 @@
       "totalShares": 4000000,
       "summary": "기초 화학물질 제조업 · 양극재 원료 소재(탄산리튬, MHP 등) 등",
       "status": "tentative"
+    },
+    {
+      "id": "KTE",
+      "name": "KTE",
+      "market": null,
+      "subscriptionStart": "2026-12-14",
+      "subscriptionEnd": "2026-12-15",
+      "refundDate": "2026-12-17",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 19000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "NH투자증권"
+      ],
+      "retailShares": 704000,
+      "retailSharesMax": 844800,
+      "retailEstimated": true,
+      "totalShares": 2816000,
+      "summary": null,
+      "status": "tentative"
     }
   ]
 }
