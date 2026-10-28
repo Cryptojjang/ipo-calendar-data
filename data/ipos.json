@@ -1,0 +1,452 @@
+{
+  "updatedAt": "2026-10-28",
+  "source": "KIND(한국거래소) 공모기업현황 자동 수집 + 초기 수동 확인분",
+  "items": [
+    {
+      "id": "멜콘",
+      "name": "멜콘",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-10-01",
+      "subscriptionEnd": "2026-10-02",
+      "refundDate": "2026-10-07",
+      "listingDate": "2026-10-15",
+      "finalPrice": 12300,
+      "bandLow": 10700,
+      "bandHigh": 12300,
+      "minQty": null,
+      "brokers": [
+        "대신증권"
+      ],
+      "retailShares": 625000,
+      "totalShares": 2500000,
+      "summary": "특수 목적용 기계 제조업 · 초정밀 온습도 제어장비(THC), 초정밀 정제제어시스템(XPS)",
+      "status": "confirmed"
+    },
+    {
+      "id": "진코스텍",
+      "name": "진코스텍",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-10-02",
+      "subscriptionEnd": "2026-10-06",
+      "refundDate": "2026-10-08",
+      "listingDate": "2026-10-15",
+      "finalPrice": 23500,
+      "bandLow": 19500,
+      "bandHigh": 23500,
+      "minQty": null,
+      "brokers": [
+        "하나증권"
+      ],
+      "retailShares": 213000,
+      "totalShares": 852000,
+      "summary": "기타 화학제품 제조업 · 하이드로겔 패치 및 마스크팩 ODM/OEM",
+      "status": "confirmed"
+    },
+    {
+      "id": "엘리스",
+      "name": "엘리스",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-10-07",
+      "subscriptionEnd": "2026-10-08",
+      "refundDate": "2026-10-13",
+      "listingDate": "2026-10-20",
+      "finalPrice": 90500,
+      "bandLow": 70400,
+      "bandHigh": 90500,
+      "minQty": null,
+      "brokers": [
+        "미래에셋증권",
+        "삼성증권"
+      ],
+      "retailShares": 555500,
+      "totalShares": 2222000,
+      "summary": "소프트웨어 개발 및 공급업 · AX, AI클라우드",
+      "status": "confirmed"
+    },
+    {
+      "id": "엠에스바이오",
+      "name": "엠에스바이오",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-10-12",
+      "subscriptionEnd": "2026-10-13",
+      "refundDate": "2026-10-15",
+      "listingDate": "2026-10-22",
+      "finalPrice": 7800,
+      "bandLow": 6800,
+      "bandHigh": 7800,
+      "minQty": null,
+      "brokers": [
+        "KB증권"
+      ],
+      "retailShares": 1000000,
+      "totalShares": 4000000,
+      "summary": "의료용 기기 제조업 · 의료용 인체조직 이식재 및 생체재료 기반 의료기기",
+      "status": "confirmed"
+    },
+    {
+      "id": "디티에스",
+      "name": "디티에스",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-10-13",
+      "subscriptionEnd": "2026-10-14",
+      "refundDate": "2026-10-16",
+      "listingDate": "2026-10-23",
+      "finalPrice": 18500,
+      "bandLow": 17000,
+      "bandHigh": 18500,
+      "minQty": null,
+      "brokers": [
+        "대신증권"
+      ],
+      "retailShares": 557230,
+      "totalShares": 22251207,
+      "summary": "특수 목적용 기계 제조업 · 산업용 열교환기",
+      "status": "confirmed"
+    },
+    {
+      "id": "에스케이증권제14호기업인수목적",
+      "name": "에스케이증권제14호기업인수목적",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-10-15",
+      "subscriptionEnd": "2026-10-16",
+      "refundDate": "2026-10-20",
+      "listingDate": "2026-10-27",
+      "finalPrice": 2000,
+      "bandLow": 2000,
+      "bandHigh": 2000,
+      "minQty": null,
+      "brokers": [
+        "SK증권"
+      ],
+      "retailShares": 1625000,
+      "totalShares": 6500000,
+      "summary": "금융 지원 서비스업 · 기업인수목적 주식회사",
+      "status": "confirmed"
+    },
+    {
+      "id": "hanwha-plus-spac-6",
+      "name": "한화플러스제6호스팩",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-10-20",
+      "subscriptionEnd": "2026-10-21",
+      "refundDate": "2026-10-23",
+      "listingDate": "2026-10-30",
+      "finalPrice": 2000,
+      "bandLow": 2000,
+      "bandHigh": 2000,
+      "minQty": 20,
+      "brokers": [
+        "한화투자증권"
+      ],
+      "retailShares": 1500000,
+      "totalShares": 6000000,
+      "summary": "다른 회사와의 합병을 유일한 목적으로 설립된 기업인수목적회사입니다",
+      "status": "confirmed"
+    },
+    {
+      "id": "creatz",
+      "name": "크리에이츠",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-10-20",
+      "subscriptionEnd": "2026-10-21",
+      "refundDate": "2026-10-23",
+      "listingDate": "2026-10-29",
+      "finalPrice": 15000,
+      "bandLow": 15000,
+      "bandHigh": 18000,
+      "minQty": 20,
+      "brokers": [
+        "삼성증권"
+      ],
+      "retailShares": 350000,
+      "totalShares": 1400000,
+      "summary": "초고속 이미지 처리 기술을 기반으로 골프 론치모니터와 연습·게임용 시뮬레이터 소프트웨어, AI 스윙분석 소프트웨어를 개발·판매하고, 실내골프연습장…",
+      "status": "confirmed"
+    },
+    {
+      "id": "tne-korea",
+      "name": "티앤이코리아",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-10-20",
+      "subscriptionEnd": "2026-10-21",
+      "refundDate": "2026-10-23",
+      "listingDate": "2026-10-29",
+      "finalPrice": 15300,
+      "bandLow": 12600,
+      "bandHigh": 15300,
+      "minQty": 20,
+      "brokers": [
+        "신한투자증권"
+      ],
+      "retailShares": 600000,
+      "totalShares": 2400000,
+      "summary": "기계오일을 쓰지 않는 무급유 베어링과 고속 전력전자 기술을 결합한 고효율 고속 터보블로워를 기반으로, 산업용 공기·가스 압축 설비를 개발·제조하는 회사입니다",
+      "status": "confirmed"
+    },
+    {
+      "id": "intellivix",
+      "name": "인텔리빅스",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-10-21",
+      "subscriptionEnd": "2026-10-22",
+      "refundDate": "2026-10-26",
+      "listingDate": "2026-10-31",
+      "finalPrice": 9000,
+      "bandLow": 7600,
+      "bandHigh": 9000,
+      "minQty": 20,
+      "brokers": [
+        "미래에셋증권"
+      ],
+      "retailShares": 625000,
+      "totalShares": 2500000,
+      "summary": "영상분석 기반 비전 AI와 생성형 AI를 결합한 AI 안전관제 플랫폼을 개발해 공공 안전·산업 현장·스마트시티·국방 분야에 공급하는 회사입니다",
+      "status": "confirmed"
+    },
+    {
+      "id": "est",
+      "name": "이에스티",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-10-22",
+      "subscriptionEnd": "2026-10-23",
+      "refundDate": "2026-10-27",
+      "listingDate": "2026-11-04",
+      "finalPrice": 12400,
+      "bandLow": 10600,
+      "bandHigh": 12400,
+      "minQty": 20,
+      "brokers": [
+        "대신증권"
+      ],
+      "retailShares": 550000,
+      "totalShares": 2200000,
+      "summary": "디스플레이·반도체 제조 공정에서 패널이나 웨이퍼를 정전기력으로 고정하는 부품인 정전척을 개발·제조·판매하고, 쓰던 정전척을 재생하는 사업도 하는 회사입니다",
+      "status": "confirmed"
+    },
+    {
+      "id": "youngkwang",
+      "name": "영광",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-10-22",
+      "subscriptionEnd": "2026-10-23",
+      "refundDate": "2026-10-27",
+      "listingDate": "2026-11-02",
+      "finalPrice": 17000,
+      "bandLow": 14000,
+      "bandHigh": 17000,
+      "minQty": 20,
+      "brokers": [
+        "한국투자증권"
+      ],
+      "retailShares": 565000,
+      "totalShares": 2260000,
+      "summary": "금속가공·기계제작 역량을 바탕으로 선박 기관실 모듈·패키지 같은 조선해양 기자재와 플랜트 기자재를 제작하는 회사입니다",
+      "status": "confirmed"
+    },
+    {
+      "id": "lablup",
+      "name": "래블업",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-10-22",
+      "subscriptionEnd": "2026-10-23",
+      "refundDate": "2026-10-27",
+      "listingDate": "2026-11-03",
+      "finalPrice": 19000,
+      "bandLow": 19000,
+      "bandHigh": 22000,
+      "minQty": 10,
+      "brokers": [
+        "NH투자증권"
+      ],
+      "retailShares": 545000,
+      "totalShares": 2180000,
+      "summary": "GPU 같은 AI 연산 자원을 잘게 나누거나 묶어 여러 작업에 효율적으로 배분·운영하는 AI 인프라 플랫폼 소프트웨어를 개발·공급하는 회사입니다",
+      "status": "confirmed"
+    },
+    {
+      "id": "im-spac-1",
+      "name": "아이엠스팩1호",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-10-26",
+      "subscriptionEnd": "2026-10-27",
+      "refundDate": "2026-10-29",
+      "listingDate": "2026-11-04",
+      "finalPrice": 2000,
+      "bandLow": 2000,
+      "bandHigh": 2000,
+      "minQty": 20,
+      "brokers": [
+        "iM증권"
+      ],
+      "retailShares": 1250000,
+      "totalShares": 5000000,
+      "summary": "다른 회사와의 합병을 유일한 목적으로 설립된 기업인수목적회사입니다",
+      "status": "confirmed"
+    },
+    {
+      "id": "dongwon-parts",
+      "name": "동원파츠",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-11-02",
+      "subscriptionEnd": "2026-11-03",
+      "refundDate": "2026-11-05",
+      "listingDate": "2026-11-10",
+      "finalPrice": null,
+      "bandLow": 23000,
+      "bandHigh": 26500,
+      "minQty": 20,
+      "brokers": [
+        "삼성증권"
+      ],
+      "retailShares": 507500,
+      "totalShares": 2030000,
+      "summary": "반도체 전공정 중 식각·증착 공정 장비에 들어가는 샤워헤드와 챔버 부품 등 고기능 정밀 부품을 알루미늄·스테인리스스틸 소재로 제조하는 회사입니다",
+      "status": "tentative"
+    },
+    {
+      "id": "baropharm",
+      "name": "바로팜",
+      "market": "KOSDAQ",
+      "status": "tentative",
+      "subscriptionStart": "2026-11-02",
+      "subscriptionEnd": "2026-11-03",
+      "refundDate": "2026-11-05",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 16400,
+      "bandHigh": 20200,
+      "minQty": 20,
+      "brokers": [
+        "미래에셋증권"
+      ],
+      "retailShares": 445000,
+      "retailSharesMax": 534000,
+      "totalShares": 1780000,
+      "summary": "IT 기술을 기반으로 약국의 의약품 주문 통합, 가격·재고 비교, 결제·반품과 의약품 정보검색·교육·경영지원 기능을 제공하는 약국용 헬스케어 플랫폼 회사입니다"
+    },
+    {
+      "id": "nex-i",
+      "name": "넥스아이",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-11-03",
+      "subscriptionEnd": "2026-11-04",
+      "refundDate": "2026-11-06",
+      "listingDate": "2026-11-12",
+      "finalPrice": null,
+      "bandLow": 10500,
+      "bandHigh": 13000,
+      "minQty": 10,
+      "brokers": [
+        "한국투자증권"
+      ],
+      "retailShares": 1250000,
+      "totalShares": 5000000,
+      "summary": "면역항암제가 듣지 않는 원인 인자를 찾아 이를 표적하는 항암 신약을 개발하는 신약개발 회사입니다",
+      "status": "tentative"
+    },
+    {
+      "id": "youngkwang-ykmc",
+      "name": "영광와이케이엠씨",
+      "market": "KOSDAQ",
+      "status": "tentative",
+      "subscriptionStart": "2026-11-04",
+      "subscriptionEnd": "2026-11-05",
+      "refundDate": "2026-11-09",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 9400,
+      "bandHigh": 11000,
+      "minQty": 20,
+      "brokers": [
+        "대신증권"
+      ],
+      "retailShares": 575000,
+      "retailSharesMax": 690000,
+      "totalShares": 2300000,
+      "summary": "반도체·디스플레이 생산장비용 핵심 부품의 정밀가공, 특수표면처리, 정밀세정을 주력으로 하고, 항공기 부품 표면처리와 평면유리 제조장비용 부품 가공·조립도…"
+    },
+    {
+      "id": "optonics",
+      "name": "옵토닉스",
+      "market": "KOSDAQ",
+      "status": "tentative",
+      "subscriptionStart": "2026-11-05",
+      "subscriptionEnd": "2026-11-06",
+      "refundDate": "2026-11-10",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 10000,
+      "bandHigh": 12000,
+      "minQty": 20,
+      "brokers": [
+        "한국투자증권"
+      ],
+      "retailShares": 550000,
+      "retailSharesMax": 660000,
+      "totalShares": 2200000,
+      "summary": "유도무기 등 무기체계의 관성항법장치에 들어가는 RLG·FOG 핵심 광학부품을 만드는 광소재 기업입니다"
+    },
+    {
+      "id": "al-robot",
+      "name": "에이엘로봇",
+      "market": "KOSDAQ",
+      "status": "tentative",
+      "subscriptionStart": "2026-11-06",
+      "subscriptionEnd": "2026-11-09",
+      "refundDate": "2026-11-11",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 15700,
+      "bandHigh": 17600,
+      "minQty": 10,
+      "brokers": [
+        "대신증권"
+      ],
+      "retailShares": 600000,
+      "retailSharesMax": 720000,
+      "totalShares": 2400000,
+      "summary": "고정밀 센서 기술을 바탕으로 로봇용 힘/토크센서와 융합 제어장치를 만드는 회사입니다"
+    },
+    {
+      "id": "genon",
+      "name": "제논",
+      "market": "KOSDAQ",
+      "status": "tentative",
+      "subscriptionStart": "2026-11-24",
+      "subscriptionEnd": "2026-11-25",
+      "refundDate": "2026-11-27",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 9700,
+      "bandHigh": 12200,
+      "minQty": 20,
+      "brokers": [
+        "삼성증권"
+      ],
+      "retailShares": 550000,
+      "retailSharesMax": 660000,
+      "totalShares": 2200000,
+      "summary": "기업이 생성형 AI를 도입·운영·확장하도록 돕는 통합 플랫폼 GenOS를 자체 개발해 라이선스와 맞춤형 AI 에이전트 구축·유지보수, GPU 등 하드웨어…"
+    },
+    {
+      "id": "씨아이에스케미칼",
+      "name": "씨아이에스케미칼",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-12-10",
+      "subscriptionEnd": "2026-12-11",
+      "refundDate": "2026-12-15",
+      "listingDate": "2026-12-22",
+      "finalPrice": null,
+      "bandLow": 5400,
+      "bandHigh": 6800,
+      "minQty": null,
+      "brokers": [
+        "KB증권"
+      ],
+      "retailShares": 1000000,
+      "totalShares": 4000000,
+      "summary": "기초 화학물질 제조업 · 양극재 원료 소재(탄산리튬, MHP 등) 등",
+      "status": "tentative"
+    }
+  ]
+}
