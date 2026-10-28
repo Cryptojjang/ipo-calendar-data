@@ -320,6 +320,7 @@
       ],
       "retailShares": 445000,
       "retailSharesMax": 534000,
+      "retailEstimated": true,
       "totalShares": 1780000,
       "summary": "IT 기술을 기반으로 약국의 의약품 주문 통합, 가격·재고 비교, 결제·반품과 의약품 정보검색·교육·경영지원 기능을 제공하는 약국용 헬스케어 플랫폼 회사입니다",
       "status": "tentative"
@@ -361,6 +362,7 @@
       ],
       "retailShares": 575000,
       "retailSharesMax": 690000,
+      "retailEstimated": true,
       "totalShares": 2300000,
       "summary": "반도체·디스플레이 생산장비용 핵심 부품의 정밀가공, 특수표면처리, 정밀세정을 주력으로 하고, 항공기 부품 표면처리와 평면유리 제조장비용 부품 가공·조립도…",
       "status": "tentative"
@@ -382,6 +384,7 @@
       ],
       "retailShares": 550000,
       "retailSharesMax": 660000,
+      "retailEstimated": true,
       "totalShares": 2200000,
       "summary": "유도무기 등 무기체계의 관성항법장치에 들어가는 RLG·FOG 핵심 광학부품을 만드는 광소재 기업입니다",
       "status": "tentative"
@@ -403,6 +406,7 @@
       ],
       "retailShares": 600000,
       "retailSharesMax": 720000,
+      "retailEstimated": true,
       "totalShares": 2400000,
       "summary": "고정밀 센서 기술을 바탕으로 로봇용 힘/토크센서와 융합 제어장치를 만드는 회사입니다",
       "status": "tentative"
@@ -424,6 +428,7 @@
       ],
       "retailShares": 1100000,
       "retailSharesMax": 1320000,
+      "retailEstimated": true,
       "totalShares": 4400000,
       "summary": null,
       "status": "tentative"
@@ -445,6 +450,7 @@
       ],
       "retailShares": 250000,
       "retailSharesMax": 300000,
+      "retailEstimated": true,
       "totalShares": 1000000,
       "summary": null,
       "status": "tentative"
@@ -467,6 +473,7 @@
       ],
       "retailShares": 1075000,
       "retailSharesMax": 1290000,
+      "retailEstimated": true,
       "totalShares": 4300000,
       "summary": null,
       "status": "tentative"
@@ -488,6 +495,7 @@
       ],
       "retailShares": 737500,
       "retailSharesMax": 885000,
+      "retailEstimated": true,
       "totalShares": 2950000,
       "summary": null,
       "status": "tentative"
@@ -509,6 +517,7 @@
       ],
       "retailShares": 500000,
       "retailSharesMax": 600000,
+      "retailEstimated": true,
       "totalShares": 2000000,
       "summary": null,
       "status": "tentative"
@@ -530,6 +539,7 @@
       ],
       "retailShares": 200000,
       "retailSharesMax": 240000,
+      "retailEstimated": true,
       "totalShares": 800000,
       "summary": null,
       "status": "tentative"
@@ -552,6 +562,7 @@
       ],
       "retailShares": 1250000,
       "retailSharesMax": 1500000,
+      "retailEstimated": true,
       "totalShares": 5000000,
       "summary": null,
       "status": "tentative"
@@ -574,6 +585,7 @@
       ],
       "retailShares": 542500,
       "retailSharesMax": 651000,
+      "retailEstimated": true,
       "totalShares": 2170000,
       "summary": null,
       "status": "tentative"
@@ -595,6 +607,7 @@
       ],
       "retailShares": 500000,
       "retailSharesMax": 600000,
+      "retailEstimated": true,
       "totalShares": 2000000,
       "summary": null,
       "status": "tentative"
@@ -616,6 +629,7 @@
       ],
       "retailShares": 550000,
       "retailSharesMax": 660000,
+      "retailEstimated": true,
       "totalShares": 2200000,
       "summary": "기업이 생성형 AI를 도입·운영·확장하도록 돕는 통합 플랫폼 GenOS를 자체 개발해 라이선스와 맞춤형 AI 에이전트 구축·유지보수, GPU 등 하드웨어…",
       "status": "tentative"
@@ -637,6 +651,7 @@
       ],
       "retailShares": 525000,
       "retailSharesMax": 630000,
+      "retailEstimated": true,
       "totalShares": 2100000,
       "summary": null,
       "status": "tentative"
@@ -658,6 +673,7 @@
       ],
       "retailShares": 425000,
       "retailSharesMax": 510000,
+      "retailEstimated": true,
       "totalShares": 1700000,
       "summary": null,
       "status": "tentative"
@@ -679,6 +695,7 @@
       ],
       "retailShares": 1625000,
       "retailSharesMax": 1950000,
+      "retailEstimated": true,
       "totalShares": 6500000,
       "summary": null,
       "status": "tentative"
@@ -700,6 +717,7 @@
       ],
       "retailShares": 550000,
       "retailSharesMax": 660000,
+      "retailEstimated": true,
       "totalShares": 2200000,
       "summary": null,
       "status": "tentative"
@@ -721,6 +739,7 @@
       ],
       "retailShares": 750000,
       "retailSharesMax": 900000,
+      "retailEstimated": true,
       "totalShares": 3000000,
       "summary": null,
       "status": "tentative"
@@ -762,6 +781,7 @@
       ],
       "retailShares": 704000,
       "retailSharesMax": 844800,
+      "retailEstimated": true,
       "totalShares": 2816000,
       "summary": null,
       "status": "tentative"
