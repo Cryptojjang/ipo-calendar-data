@@ -81,7 +81,8 @@ const BROKER_ALIASES = [
 export function normBroker(name) {
   let n = String(name).replace(/\(주\)|㈜|주식회사/g, "").replace(/\s+/g, "").trim();
   for (const [re, to] of BROKER_ALIASES) n = n.replace(re, to);
-  return n;
+  // "-" 처럼 빈 표기는 증권사로 치지 않아요
+  return /[가-힣A-Za-z]/.test(n) ? n : "";
 }
 
 async function getText(url, init = {}, fetchImpl = fetch, retries = 2) {
@@ -388,7 +389,8 @@ export function mergeIpos({ kind, dart, previous, overrides = {}, today }) {
   const result = merged
     .filter((m) => inWindow(m, today))
     // 청약 증권사가 없는 항목은 일반 청약 공모주가 아니라서 빼요 (이전 데이터에 남아 있어도)
-    .filter((m) => Array.isArray(m.brokers) && m.brokers.length > 0)
+    .map((m) => ({ ...m, brokers: (m.brokers ?? []).filter((b) => /[가-힣A-Za-z]/.test(String(b))) }))
+    .filter((m) => m.brokers.length > 0)
     .map((m) => {
       const o = overrides[m.id] ?? overrides[m.name] ?? {};
       const item = { ...m, ...o };
