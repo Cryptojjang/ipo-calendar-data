@@ -374,7 +374,10 @@ export function mergeIpos({ kind, dart, previous, overrides = {}, today }) {
       brokers: pick(d.brokers, p?.brokers) ?? [],
       retailShares: pick(p?.retailShares, d.retailShares),
       ...(pick(p?.retailSharesMax, d.retailSharesMax) ? { retailSharesMax: pick(p?.retailSharesMax, d.retailSharesMax) } : {}),
-      ...(d.retailEstimated && !p?.retailShares ? { retailEstimated: true } : {}),
+      // 이전 값도 추정치였거나(표시가 빠진 예전 데이터 포함) 이번 추정치와 같으면 계속 "추정"으로 표시해요
+      ...(d.retailEstimated && (!p?.retailShares || p?.retailEstimated || p?.retailShares === d.retailShares)
+        ? { retailEstimated: true }
+        : {}),
       totalShares: pick(d.totalShares, p?.totalShares),
       summary: pick(p?.summary),
     });
