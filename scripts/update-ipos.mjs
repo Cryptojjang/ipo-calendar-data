@@ -221,20 +221,36 @@ export function parseEstkRs(json) {
 }
 
 export async function fetchDart({ today, key, fetchImpl = fetch, log = console.log }) {
-  const bgn = addDays(today, -150).replace(/-/g, "");
+  const bgn = addDays(today, -170).replace(/-/g, "");
   const end = today.replace(/-/g, "");
   const filings = [];
-  for (let page = 1; page <= 10; page++) {
-    const res = await dartJson(
-      "list.json",
-      { crtfc_key: key, bgn_de: bgn, end_de: end, pblntf_detail_ty: "C001", page_no: String(page), page_count: "100" },
-      fetchImpl,
-    );
-    if (res.status === "013") break; // 조회된 데이터 없음
-    if (res.status !== "000") throw new Error(`DART list ${res.status} ${res.message}`);
-    filings.push(...(res.list ?? []));
-    if (page >= Number(res.total_page ?? 1)) break;
+  // 회사를 지정하지 않은 공시 검색은 한 번에 3개월까지만 돼요 → 85일씩 두 구간으로 나눠 조회
+  const windows = [
+    [addDays(today, -170), addDays(today, -86)],
+    [addDays(today, -85), today],
+  ];
+  for (const [from, to] of windows) {
+    for (let page = 1; page <= 10; page++) {
+      const res = await dartJson(
+        "list.json",
+        {
+          crtfc_key: key,
+          bgn_de: from.replace(/-/g, ""),
+          end_de: to.replace(/-/g, ""),
+          pblntf_detail_ty: "C001",
+          page_no: String(page),
+          page_count: "100",
+        },
+        fetchImpl,
+      );
+      if (res.status === "013") break; // 조회된 데이터 없음
+      if (res.status !== "000") throw new Error(`DART list ${res.status} ${res.message}`);
+      filings.push(...(res.list ?? []));
+      if (page >= Number(res.total_page ?? 1)) break;
+    }
   }
+  // 최신 접수분이 앞에 오도록 정렬 (같은 회사는 최신 신고서 기준)
+  filings.sort((a, b) => String(b.rcept_dt ?? "").localeCompare(String(a.rcept_dt ?? "")));
   // 비상장사(E)의 지분증권 신고서 = 공모주 후보 (상장사 유상증자 제외)
   const corps = new Map();
   for (const f of filings) if (f.corp_cls === "E" && !corps.has(f.corp_code)) corps.set(f.corp_code, f.corp_name);
