@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-10-28",
-  "source": "KIND(한국거래소) 공모기업현황 자동 수집",
+  "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
       "id": "멜콘",
@@ -307,7 +307,6 @@
       "id": "baropharm",
       "name": "바로팜",
       "market": "KOSDAQ",
-      "status": "tentative",
       "subscriptionStart": "2026-11-02",
       "subscriptionEnd": "2026-11-03",
       "refundDate": "2026-11-05",
@@ -322,7 +321,8 @@
       "retailShares": 445000,
       "retailSharesMax": 534000,
       "totalShares": 1780000,
-      "summary": "IT 기술을 기반으로 약국의 의약품 주문 통합, 가격·재고 비교, 결제·반품과 의약품 정보검색·교육·경영지원 기능을 제공하는 약국용 헬스케어 플랫폼 회사입니다"
+      "summary": "IT 기술을 기반으로 약국의 의약품 주문 통합, 가격·재고 비교, 결제·반품과 의약품 정보검색·교육·경영지원 기능을 제공하는 약국용 헬스케어 플랫폼 회사입니다",
+      "status": "tentative"
     },
     {
       "id": "nex-i",
@@ -348,7 +348,6 @@
       "id": "youngkwang-ykmc",
       "name": "영광와이케이엠씨",
       "market": "KOSDAQ",
-      "status": "tentative",
       "subscriptionStart": "2026-11-04",
       "subscriptionEnd": "2026-11-05",
       "refundDate": "2026-11-09",
@@ -363,13 +362,13 @@
       "retailShares": 575000,
       "retailSharesMax": 690000,
       "totalShares": 2300000,
-      "summary": "반도체·디스플레이 생산장비용 핵심 부품의 정밀가공, 특수표면처리, 정밀세정을 주력으로 하고, 항공기 부품 표면처리와 평면유리 제조장비용 부품 가공·조립도…"
+      "summary": "반도체·디스플레이 생산장비용 핵심 부품의 정밀가공, 특수표면처리, 정밀세정을 주력으로 하고, 항공기 부품 표면처리와 평면유리 제조장비용 부품 가공·조립도…",
+      "status": "tentative"
     },
     {
       "id": "optonics",
       "name": "옵토닉스",
       "market": "KOSDAQ",
-      "status": "tentative",
       "subscriptionStart": "2026-11-05",
       "subscriptionEnd": "2026-11-06",
       "refundDate": "2026-11-10",
@@ -384,13 +383,35 @@
       "retailShares": 550000,
       "retailSharesMax": 660000,
       "totalShares": 2200000,
-      "summary": "유도무기 등 무기체계의 관성항법장치에 들어가는 RLG·FOG 핵심 광학부품을 만드는 광소재 기업입니다"
+      "summary": "유도무기 등 무기체계의 관성항법장치에 들어가는 RLG·FOG 핵심 광학부품을 만드는 광소재 기업입니다",
+      "status": "tentative"
+    },
+    {
+      "id": "SimwonAmericaCorp.",
+      "name": "SimwonAmericaCorp.",
+      "market": null,
+      "subscriptionStart": "2026-11-05",
+      "subscriptionEnd": "2026-11-05",
+      "refundDate": "2026-11-09",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 26784,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "-"
+      ],
+      "retailShares": 625000,
+      "retailSharesMax": 750000,
+      "retailEstimated": true,
+      "totalShares": 2500000,
+      "summary": null,
+      "status": "tentative"
     },
     {
       "id": "al-robot",
       "name": "에이엘로봇",
       "market": "KOSDAQ",
-      "status": "tentative",
       "subscriptionStart": "2026-11-06",
       "subscriptionEnd": "2026-11-09",
       "refundDate": "2026-11-11",
@@ -405,13 +426,214 @@
       "retailShares": 600000,
       "retailSharesMax": 720000,
       "totalShares": 2400000,
-      "summary": "고정밀 센서 기술을 바탕으로 로봇용 힘/토크센서와 융합 제어장치를 만드는 회사입니다"
+      "summary": "고정밀 센서 기술을 바탕으로 로봇용 힘/토크센서와 융합 제어장치를 만드는 회사입니다",
+      "status": "tentative"
+    },
+    {
+      "id": "하나에어로다이내믹스",
+      "name": "하나에어로다이내믹스",
+      "market": null,
+      "subscriptionStart": "2026-11-10",
+      "subscriptionEnd": "2026-11-11",
+      "refundDate": "2026-11-13",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 4700,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "IBK투자증권"
+      ],
+      "retailShares": 1100000,
+      "retailSharesMax": 1320000,
+      "retailEstimated": true,
+      "totalShares": 4400000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "다비오",
+      "name": "다비오",
+      "market": null,
+      "subscriptionStart": "2026-11-10",
+      "subscriptionEnd": "2026-11-11",
+      "refundDate": "2026-11-13",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 12300,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "대신증권"
+      ],
+      "retailShares": 250000,
+      "retailSharesMax": 300000,
+      "retailEstimated": true,
+      "totalShares": 1000000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "제이앤티지",
+      "name": "제이앤티지",
+      "market": null,
+      "subscriptionStart": "2026-11-12",
+      "subscriptionEnd": "2026-11-13",
+      "refundDate": "2026-11-17",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 26400,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "대신증권",
+        "NH투자증권"
+      ],
+      "retailShares": 1075000,
+      "retailSharesMax": 1290000,
+      "retailEstimated": true,
+      "totalShares": 4300000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "씨앤엠",
+      "name": "씨앤엠",
+      "market": null,
+      "subscriptionStart": "2026-11-12",
+      "subscriptionEnd": "2026-11-13",
+      "refundDate": "2026-11-17",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 10000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "한국투자증권"
+      ],
+      "retailShares": 737500,
+      "retailSharesMax": 885000,
+      "retailEstimated": true,
+      "totalShares": 2950000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "엠비디",
+      "name": "엠비디",
+      "market": null,
+      "subscriptionStart": "2026-11-12",
+      "subscriptionEnd": "2026-11-13",
+      "refundDate": "2026-11-17",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 9600,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "하나증권"
+      ],
+      "retailShares": 500000,
+      "retailSharesMax": 600000,
+      "retailEstimated": true,
+      "totalShares": 2000000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "유캐스트",
+      "name": "유캐스트",
+      "market": null,
+      "subscriptionStart": "2026-11-18",
+      "subscriptionEnd": "2026-11-19",
+      "refundDate": "2026-11-23",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 19000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "유진증권"
+      ],
+      "retailShares": 200000,
+      "retailSharesMax": 240000,
+      "retailEstimated": true,
+      "totalShares": 800000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "에스에프씨",
+      "name": "에스에프씨",
+      "market": null,
+      "subscriptionStart": "2026-11-18",
+      "subscriptionEnd": "2026-11-19",
+      "refundDate": "2026-11-23",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 31600,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "미래에셋증권",
+        "한국투자증권"
+      ],
+      "retailShares": 1250000,
+      "retailSharesMax": 1500000,
+      "retailEstimated": true,
+      "totalShares": 5000000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "아델",
+      "name": "아델",
+      "market": null,
+      "subscriptionStart": "2026-11-23",
+      "subscriptionEnd": "2026-11-24",
+      "refundDate": "2026-11-26",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 18000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "삼성증권",
+        "미래에셋증권"
+      ],
+      "retailShares": 542500,
+      "retailSharesMax": 651000,
+      "retailEstimated": true,
+      "totalShares": 2170000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "케이엠에프",
+      "name": "케이엠에프",
+      "market": null,
+      "subscriptionStart": "2026-11-24",
+      "subscriptionEnd": "2026-11-25",
+      "refundDate": "2026-11-27",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 15000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "IBK투자증권"
+      ],
+      "retailShares": 500000,
+      "retailSharesMax": 600000,
+      "retailEstimated": true,
+      "totalShares": 2000000,
+      "summary": null,
+      "status": "tentative"
     },
     {
       "id": "genon",
       "name": "제논",
       "market": "KOSDAQ",
-      "status": "tentative",
       "subscriptionStart": "2026-11-24",
       "subscriptionEnd": "2026-11-25",
       "refundDate": "2026-11-27",
@@ -426,7 +648,118 @@
       "retailShares": 550000,
       "retailSharesMax": 660000,
       "totalShares": 2200000,
-      "summary": "기업이 생성형 AI를 도입·운영·확장하도록 돕는 통합 플랫폼 GenOS를 자체 개발해 라이선스와 맞춤형 AI 에이전트 구축·유지보수, GPU 등 하드웨어…"
+      "summary": "기업이 생성형 AI를 도입·운영·확장하도록 돕는 통합 플랫폼 GenOS를 자체 개발해 라이선스와 맞춤형 AI 에이전트 구축·유지보수, GPU 등 하드웨어…",
+      "status": "tentative"
+    },
+    {
+      "id": "에이엔에이치스트럭쳐",
+      "name": "에이엔에이치스트럭쳐",
+      "market": null,
+      "subscriptionStart": "2026-11-27",
+      "subscriptionEnd": "2026-11-30",
+      "refundDate": "2026-12-02",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 11200,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "NH투자증권"
+      ],
+      "retailShares": 525000,
+      "retailSharesMax": 630000,
+      "retailEstimated": true,
+      "totalShares": 2100000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "엔키화이트햇",
+      "name": "엔키화이트햇",
+      "market": null,
+      "subscriptionStart": "2026-12-01",
+      "subscriptionEnd": "2026-12-02",
+      "refundDate": "2026-12-04",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 13000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "신영증권"
+      ],
+      "retailShares": 425000,
+      "retailSharesMax": 510000,
+      "retailEstimated": true,
+      "totalShares": 1700000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "우리투자제1호기업인수목적",
+      "name": "우리투자제1호기업인수목적",
+      "market": null,
+      "subscriptionStart": "2026-12-02",
+      "subscriptionEnd": "2026-12-03",
+      "refundDate": "2026-12-07",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 2000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "우리투자증권"
+      ],
+      "retailShares": 1625000,
+      "retailSharesMax": 1950000,
+      "retailEstimated": true,
+      "totalShares": 6500000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "이노보테라퓨틱스",
+      "name": "이노보테라퓨틱스",
+      "market": null,
+      "subscriptionStart": "2026-12-07",
+      "subscriptionEnd": "2026-12-08",
+      "refundDate": "2026-12-10",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 20000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "한국투자증권"
+      ],
+      "retailShares": 550000,
+      "retailSharesMax": 660000,
+      "retailEstimated": true,
+      "totalShares": 2200000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "인터엑스",
+      "name": "인터엑스",
+      "market": null,
+      "subscriptionStart": "2026-12-09",
+      "subscriptionEnd": "2026-12-10",
+      "refundDate": "2026-12-14",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 10000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "한국투자증권"
+      ],
+      "retailShares": 750000,
+      "retailSharesMax": 900000,
+      "retailEstimated": true,
+      "totalShares": 3000000,
+      "summary": null,
+      "status": "tentative"
     },
     {
       "id": "씨아이에스케미칼",
