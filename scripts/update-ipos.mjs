@@ -263,6 +263,8 @@ export async function fetchDart({ today, key, fetchImpl = fetch, log = console.l
       if (res.status !== "000") continue;
       const p = parseEstkRs(res);
       if (!p.subscriptionStart) continue;
+      // 주관(인수) 증권사가 없으면 일반인이 청약하는 공모주가 아니에요 (기존주주·해외 모집 등)
+      if (p.brokers.length === 0) continue;
       items.push({
         name: p.name ?? corpName,
         market: null,
