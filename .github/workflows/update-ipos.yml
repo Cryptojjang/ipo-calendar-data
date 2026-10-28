@@ -1,0 +1,44 @@
+# 공모주 일정 자동 갱신
+# 매일 오전 7시(한국시간)에 KIND·DART에서 일정을 모아 data/ipos.json 을 갱신해요.
+# 앱은 이 파일의 raw 주소(VITE_IPO_DATA_URL)를 읽어요.
+name: 공모주 일정 자동 갱신
+
+on:
+  schedule:
+    - cron: "0 22 * * *" # UTC 22:00 = 한국시간 07:00
+  workflow_dispatch: {} # Actions 탭에서 "Run workflow"로 바로 실행
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-ipos
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 일정 수집
+        env:
+          DART_API_KEY: ${{ secrets.DART_API_KEY }}
+        run: node scripts/update-ipos.mjs
+
+      - name: 바뀐 내용이 있으면 저장
+        run: |
+          if git diff --quiet -- data/ipos.json; then
+            echo "바뀐 일정이 없어요"
+            exit 0
+          fi
+          git config user.name "ipo-calendar-bot"
+          git config user.email "ipo-calendar-bot@users.noreply.github.com"
+          git add data/ipos.json
+          git commit -m "공모주 일정 자동 갱신 $(TZ=Asia/Seoul date +%Y-%m-%d)"
+          git push
