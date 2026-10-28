@@ -387,27 +387,6 @@
       "status": "tentative"
     },
     {
-      "id": "SimwonAmericaCorp.",
-      "name": "SimwonAmericaCorp.",
-      "market": null,
-      "subscriptionStart": "2026-11-05",
-      "subscriptionEnd": "2026-11-05",
-      "refundDate": "2026-11-09",
-      "listingDate": null,
-      "finalPrice": null,
-      "bandLow": 26784,
-      "bandHigh": null,
-      "minQty": null,
-      "brokers": [
-        "-"
-      ],
-      "retailShares": 625000,
-      "retailSharesMax": 750000,
-      "totalShares": 2500000,
-      "summary": null,
-      "status": "tentative"
-    },
-    {
       "id": "al-robot",
       "name": "에이엘로봇",
       "market": "KOSDAQ",
