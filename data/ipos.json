@@ -403,7 +403,6 @@
       ],
       "retailShares": 625000,
       "retailSharesMax": 750000,
-      "retailEstimated": true,
       "totalShares": 2500000,
       "summary": null,
       "status": "tentative"
@@ -446,7 +445,6 @@
       ],
       "retailShares": 1100000,
       "retailSharesMax": 1320000,
-      "retailEstimated": true,
       "totalShares": 4400000,
       "summary": null,
       "status": "tentative"
@@ -468,7 +466,6 @@
       ],
       "retailShares": 250000,
       "retailSharesMax": 300000,
-      "retailEstimated": true,
       "totalShares": 1000000,
       "summary": null,
       "status": "tentative"
@@ -491,7 +488,6 @@
       ],
       "retailShares": 1075000,
       "retailSharesMax": 1290000,
-      "retailEstimated": true,
       "totalShares": 4300000,
       "summary": null,
       "status": "tentative"
@@ -513,7 +509,6 @@
       ],
       "retailShares": 737500,
       "retailSharesMax": 885000,
-      "retailEstimated": true,
       "totalShares": 2950000,
       "summary": null,
       "status": "tentative"
@@ -535,7 +530,6 @@
       ],
       "retailShares": 500000,
       "retailSharesMax": 600000,
-      "retailEstimated": true,
       "totalShares": 2000000,
       "summary": null,
       "status": "tentative"
@@ -557,7 +551,6 @@
       ],
       "retailShares": 200000,
       "retailSharesMax": 240000,
-      "retailEstimated": true,
       "totalShares": 800000,
       "summary": null,
       "status": "tentative"
@@ -580,7 +573,6 @@
       ],
       "retailShares": 1250000,
       "retailSharesMax": 1500000,
-      "retailEstimated": true,
       "totalShares": 5000000,
       "summary": null,
       "status": "tentative"
@@ -603,7 +595,6 @@
       ],
       "retailShares": 542500,
       "retailSharesMax": 651000,
-      "retailEstimated": true,
       "totalShares": 2170000,
       "summary": null,
       "status": "tentative"
@@ -625,7 +616,6 @@
       ],
       "retailShares": 500000,
       "retailSharesMax": 600000,
-      "retailEstimated": true,
       "totalShares": 2000000,
       "summary": null,
       "status": "tentative"
@@ -668,7 +658,6 @@
       ],
       "retailShares": 525000,
       "retailSharesMax": 630000,
-      "retailEstimated": true,
       "totalShares": 2100000,
       "summary": null,
       "status": "tentative"
@@ -690,7 +679,6 @@
       ],
       "retailShares": 425000,
       "retailSharesMax": 510000,
-      "retailEstimated": true,
       "totalShares": 1700000,
       "summary": null,
       "status": "tentative"
@@ -712,7 +700,6 @@
       ],
       "retailShares": 1625000,
       "retailSharesMax": 1950000,
-      "retailEstimated": true,
       "totalShares": 6500000,
       "summary": null,
       "status": "tentative"
@@ -734,7 +721,6 @@
       ],
       "retailShares": 550000,
       "retailSharesMax": 660000,
-      "retailEstimated": true,
       "totalShares": 2200000,
       "summary": null,
       "status": "tentative"
@@ -756,7 +742,6 @@
       ],
       "retailShares": 750000,
       "retailSharesMax": 900000,
-      "retailEstimated": true,
       "totalShares": 3000000,
       "summary": null,
       "status": "tentative"
