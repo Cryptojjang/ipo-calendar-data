@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-29",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
@@ -591,6 +591,28 @@
       "status": "tentative"
     },
     {
+      "id": "신영해피투모로우제12호기업인수목적",
+      "name": "신영해피투모로우제12호기업인수목적",
+      "market": null,
+      "subscriptionStart": "2026-11-24",
+      "subscriptionEnd": "2026-11-25",
+      "refundDate": "2026-11-27",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 2000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "신영증권"
+      ],
+      "retailShares": 1562500,
+      "retailSharesMax": 1875000,
+      "retailEstimated": true,
+      "totalShares": 6250000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
       "id": "케이엠에프",
       "name": "케이엠에프",
       "market": null,
@@ -762,6 +784,28 @@
       "retailShares": 1000000,
       "totalShares": 4000000,
       "summary": "기초 화학물질 제조업 · 양극재 원료 소재(탄산리튬, MHP 등) 등",
+      "status": "tentative"
+    },
+    {
+      "id": "데스틴파워",
+      "name": "데스틴파워",
+      "market": null,
+      "subscriptionStart": "2026-12-14",
+      "subscriptionEnd": "2026-12-15",
+      "refundDate": "2026-12-17",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 8000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "한국투자증권"
+      ],
+      "retailShares": 550000,
+      "retailSharesMax": 660000,
+      "retailEstimated": true,
+      "totalShares": 2200000,
+      "summary": null,
       "status": "tentative"
     },
     {
