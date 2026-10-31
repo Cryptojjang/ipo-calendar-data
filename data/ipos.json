@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-10-31",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
@@ -434,28 +434,6 @@
       "status": "tentative"
     },
     {
-      "id": "다비오",
-      "name": "다비오",
-      "market": null,
-      "subscriptionStart": "2026-11-10",
-      "subscriptionEnd": "2026-11-11",
-      "refundDate": "2026-11-13",
-      "listingDate": null,
-      "finalPrice": null,
-      "bandLow": 12300,
-      "bandHigh": null,
-      "minQty": null,
-      "brokers": [
-        "대신증권"
-      ],
-      "retailShares": 250000,
-      "retailSharesMax": 300000,
-      "retailEstimated": true,
-      "totalShares": 1000000,
-      "summary": null,
-      "status": "tentative"
-    },
-    {
       "id": "제이앤티지",
       "name": "제이앤티지",
       "market": null,
@@ -675,6 +653,28 @@
       "retailSharesMax": 630000,
       "retailEstimated": true,
       "totalShares": 2100000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "다비오",
+      "name": "다비오",
+      "market": null,
+      "subscriptionStart": "2026-12-01",
+      "subscriptionEnd": "2026-12-02",
+      "refundDate": "2026-12-04",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 12300,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "대신증권"
+      ],
+      "retailShares": 250000,
+      "retailSharesMax": 300000,
+      "retailEstimated": true,
+      "totalShares": 1000000,
       "summary": null,
       "status": "tentative"
     },
