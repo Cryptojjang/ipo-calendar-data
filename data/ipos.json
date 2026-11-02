@@ -1,27 +1,7 @@
 {
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-02",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
-    {
-      "id": "멜콘",
-      "name": "멜콘",
-      "market": "KOSDAQ",
-      "subscriptionStart": "2026-10-01",
-      "subscriptionEnd": "2026-10-02",
-      "refundDate": "2026-10-07",
-      "listingDate": "2026-10-15",
-      "finalPrice": 12300,
-      "bandLow": 10700,
-      "bandHigh": 12300,
-      "minQty": null,
-      "brokers": [
-        "대신증권"
-      ],
-      "retailShares": 625000,
-      "totalShares": 2500000,
-      "summary": "특수 목적용 기계 제조업 · 초정밀 온습도 제어장비(THC), 초정밀 정제제어시스템(XPS)",
-      "status": "confirmed"
-    },
     {
       "id": "진코스텍",
       "name": "진코스텍",
