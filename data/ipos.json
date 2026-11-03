@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-03",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
@@ -271,7 +271,7 @@
       "subscriptionEnd": "2026-11-03",
       "refundDate": "2026-11-05",
       "listingDate": "2026-11-10",
-      "finalPrice": null,
+      "finalPrice": 26500,
       "bandLow": 23000,
       "bandHigh": 26500,
       "minQty": 20,
@@ -281,7 +281,7 @@
       "retailShares": 507500,
       "totalShares": 2030000,
       "summary": "반도체 전공정 중 식각·증착 공정 장비에 들어가는 샤워헤드와 챔버 부품 등 고기능 정밀 부품을 알루미늄·스테인리스스틸 소재로 제조하는 회사입니다",
-      "status": "tentative"
+      "status": "confirmed"
     },
     {
       "id": "baropharm",
@@ -376,7 +376,7 @@
       "subscriptionStart": "2026-11-06",
       "subscriptionEnd": "2026-11-09",
       "refundDate": "2026-11-11",
-      "listingDate": null,
+      "listingDate": "2026-11-18",
       "finalPrice": null,
       "bandLow": 15700,
       "bandHigh": 17600,
@@ -385,8 +385,6 @@
         "대신증권"
       ],
       "retailShares": 600000,
-      "retailSharesMax": 720000,
-      "retailEstimated": true,
       "totalShares": 2400000,
       "summary": "고정밀 센서 기술을 바탕으로 로봇용 힘/토크센서와 융합 제어장치를 만드는 회사입니다",
       "status": "tentative"
