@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-04",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
@@ -290,8 +290,8 @@
       "subscriptionStart": "2026-11-02",
       "subscriptionEnd": "2026-11-03",
       "refundDate": "2026-11-05",
-      "listingDate": null,
-      "finalPrice": null,
+      "listingDate": "2026-11-11",
+      "finalPrice": 16400,
       "bandLow": 16400,
       "bandHigh": 20200,
       "minQty": 20,
@@ -299,11 +299,9 @@
         "미래에셋증권"
       ],
       "retailShares": 445000,
-      "retailSharesMax": 534000,
-      "retailEstimated": true,
       "totalShares": 1780000,
       "summary": "IT 기술을 기반으로 약국의 의약품 주문 통합, 가격·재고 비교, 결제·반품과 의약품 정보검색·교육·경영지원 기능을 제공하는 약국용 헬스케어 플랫폼 회사입니다",
-      "status": "tentative"
+      "status": "confirmed"
     },
     {
       "id": "nex-i",
@@ -412,6 +410,28 @@
       "status": "tentative"
     },
     {
+      "id": "씨앤엠",
+      "name": "씨앤엠",
+      "market": null,
+      "subscriptionStart": "2026-11-12",
+      "subscriptionEnd": "2026-11-13",
+      "refundDate": "2026-11-17",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 10000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "한국투자증권"
+      ],
+      "retailShares": 737500,
+      "retailSharesMax": 885000,
+      "retailEstimated": true,
+      "totalShares": 2950000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
       "id": "제이앤티지",
       "name": "제이앤티지",
       "market": null,
@@ -431,28 +451,6 @@
       "retailSharesMax": 1290000,
       "retailEstimated": true,
       "totalShares": 4300000,
-      "summary": null,
-      "status": "tentative"
-    },
-    {
-      "id": "씨앤엠",
-      "name": "씨앤엠",
-      "market": null,
-      "subscriptionStart": "2026-11-12",
-      "subscriptionEnd": "2026-11-13",
-      "refundDate": "2026-11-17",
-      "listingDate": null,
-      "finalPrice": null,
-      "bandLow": 10000,
-      "bandHigh": null,
-      "minQty": null,
-      "brokers": [
-        "한국투자증권"
-      ],
-      "retailShares": 737500,
-      "retailSharesMax": 885000,
-      "retailEstimated": true,
-      "totalShares": 2950000,
       "summary": null,
       "status": "tentative"
     },
@@ -635,28 +633,6 @@
       "status": "tentative"
     },
     {
-      "id": "다비오",
-      "name": "다비오",
-      "market": null,
-      "subscriptionStart": "2026-12-01",
-      "subscriptionEnd": "2026-12-02",
-      "refundDate": "2026-12-04",
-      "listingDate": null,
-      "finalPrice": null,
-      "bandLow": 12300,
-      "bandHigh": null,
-      "minQty": null,
-      "brokers": [
-        "대신증권"
-      ],
-      "retailShares": 250000,
-      "retailSharesMax": 300000,
-      "retailEstimated": true,
-      "totalShares": 1000000,
-      "summary": null,
-      "status": "tentative"
-    },
-    {
       "id": "엔키화이트햇",
       "name": "엔키화이트햇",
       "market": null,
@@ -675,6 +651,28 @@
       "retailSharesMax": 510000,
       "retailEstimated": true,
       "totalShares": 1700000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "다비오",
+      "name": "다비오",
+      "market": null,
+      "subscriptionStart": "2026-12-01",
+      "subscriptionEnd": "2026-12-02",
+      "refundDate": "2026-12-04",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 12300,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "대신증권"
+      ],
+      "retailShares": 250000,
+      "retailSharesMax": 300000,
+      "retailEstimated": true,
+      "totalShares": 1000000,
       "summary": null,
       "status": "tentative"
     },
