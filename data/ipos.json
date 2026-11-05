@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-05",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
@@ -311,7 +311,7 @@
       "subscriptionEnd": "2026-11-04",
       "refundDate": "2026-11-06",
       "listingDate": "2026-11-12",
-      "finalPrice": null,
+      "finalPrice": 8000,
       "bandLow": 10500,
       "bandHigh": 13000,
       "minQty": 10,
@@ -321,7 +321,7 @@
       "retailShares": 1250000,
       "totalShares": 5000000,
       "summary": "면역항암제가 듣지 않는 원인 인자를 찾아 이를 표적하는 항암 신약을 개발하는 신약개발 회사입니다",
-      "status": "tentative"
+      "status": "confirmed"
     },
     {
       "id": "youngkwang-ykmc",
@@ -410,28 +410,6 @@
       "status": "tentative"
     },
     {
-      "id": "씨앤엠",
-      "name": "씨앤엠",
-      "market": null,
-      "subscriptionStart": "2026-11-12",
-      "subscriptionEnd": "2026-11-13",
-      "refundDate": "2026-11-17",
-      "listingDate": null,
-      "finalPrice": null,
-      "bandLow": 10000,
-      "bandHigh": null,
-      "minQty": null,
-      "brokers": [
-        "한국투자증권"
-      ],
-      "retailShares": 737500,
-      "retailSharesMax": 885000,
-      "retailEstimated": true,
-      "totalShares": 2950000,
-      "summary": null,
-      "status": "tentative"
-    },
-    {
       "id": "제이앤티지",
       "name": "제이앤티지",
       "market": null,
@@ -451,6 +429,28 @@
       "retailSharesMax": 1290000,
       "retailEstimated": true,
       "totalShares": 4300000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "씨앤엠",
+      "name": "씨앤엠",
+      "market": null,
+      "subscriptionStart": "2026-11-12",
+      "subscriptionEnd": "2026-11-13",
+      "refundDate": "2026-11-17",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 10000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "한국투자증권"
+      ],
+      "retailShares": 737500,
+      "retailSharesMax": 885000,
+      "retailEstimated": true,
+      "totalShares": 2950000,
       "summary": null,
       "status": "tentative"
     },
@@ -477,28 +477,6 @@
       "status": "tentative"
     },
     {
-      "id": "유캐스트",
-      "name": "유캐스트",
-      "market": null,
-      "subscriptionStart": "2026-11-18",
-      "subscriptionEnd": "2026-11-19",
-      "refundDate": "2026-11-23",
-      "listingDate": null,
-      "finalPrice": null,
-      "bandLow": 19000,
-      "bandHigh": null,
-      "minQty": null,
-      "brokers": [
-        "유진증권"
-      ],
-      "retailShares": 200000,
-      "retailSharesMax": 240000,
-      "retailEstimated": true,
-      "totalShares": 800000,
-      "summary": null,
-      "status": "tentative"
-    },
-    {
       "id": "에스에프씨",
       "name": "에스에프씨",
       "market": null,
@@ -518,6 +496,28 @@
       "retailSharesMax": 1500000,
       "retailEstimated": true,
       "totalShares": 5000000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "유캐스트",
+      "name": "유캐스트",
+      "market": null,
+      "subscriptionStart": "2026-11-18",
+      "subscriptionEnd": "2026-11-19",
+      "refundDate": "2026-11-23",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 19000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "유진증권"
+      ],
+      "retailShares": 200000,
+      "retailSharesMax": 240000,
+      "retailEstimated": true,
+      "totalShares": 800000,
       "summary": null,
       "status": "tentative"
     },
