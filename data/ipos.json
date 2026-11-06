@@ -1,27 +1,7 @@
 {
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-06",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
-    {
-      "id": "진코스텍",
-      "name": "진코스텍",
-      "market": "KOSDAQ",
-      "subscriptionStart": "2026-10-02",
-      "subscriptionEnd": "2026-10-06",
-      "refundDate": "2026-10-08",
-      "listingDate": "2026-10-15",
-      "finalPrice": 23500,
-      "bandLow": 19500,
-      "bandHigh": 23500,
-      "minQty": null,
-      "brokers": [
-        "하나증권"
-      ],
-      "retailShares": 213000,
-      "totalShares": 852000,
-      "summary": "기타 화학제품 제조업 · 하이드로겔 패치 및 마스크팩 ODM/OEM",
-      "status": "confirmed"
-    },
     {
       "id": "엘리스",
       "name": "엘리스",
