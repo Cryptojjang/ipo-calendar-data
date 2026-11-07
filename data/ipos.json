@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
@@ -390,6 +390,28 @@
       "status": "tentative"
     },
     {
+      "id": "엠비디",
+      "name": "엠비디",
+      "market": null,
+      "subscriptionStart": "2026-11-12",
+      "subscriptionEnd": "2026-11-13",
+      "refundDate": "2026-11-17",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 9600,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "하나증권"
+      ],
+      "retailShares": 500000,
+      "retailSharesMax": 600000,
+      "retailEstimated": true,
+      "totalShares": 2000000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
       "id": "제이앤티지",
       "name": "제이앤티지",
       "market": null,
@@ -431,28 +453,6 @@
       "retailSharesMax": 885000,
       "retailEstimated": true,
       "totalShares": 2950000,
-      "summary": null,
-      "status": "tentative"
-    },
-    {
-      "id": "엠비디",
-      "name": "엠비디",
-      "market": null,
-      "subscriptionStart": "2026-11-12",
-      "subscriptionEnd": "2026-11-13",
-      "refundDate": "2026-11-17",
-      "listingDate": null,
-      "finalPrice": null,
-      "bandLow": 9600,
-      "bandHigh": null,
-      "minQty": null,
-      "brokers": [
-        "하나증권"
-      ],
-      "retailShares": 500000,
-      "retailSharesMax": 600000,
-      "retailEstimated": true,
-      "totalShares": 2000000,
       "summary": null,
       "status": "tentative"
     },
