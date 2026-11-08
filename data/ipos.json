@@ -1,28 +1,7 @@
 {
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
-    {
-      "id": "엘리스",
-      "name": "엘리스",
-      "market": "KOSDAQ",
-      "subscriptionStart": "2026-10-07",
-      "subscriptionEnd": "2026-10-08",
-      "refundDate": "2026-10-13",
-      "listingDate": "2026-10-20",
-      "finalPrice": 90500,
-      "bandLow": 70400,
-      "bandHigh": 90500,
-      "minQty": null,
-      "brokers": [
-        "미래에셋증권",
-        "삼성증권"
-      ],
-      "retailShares": 555500,
-      "totalShares": 2222000,
-      "summary": "소프트웨어 개발 및 공급업 · AX, AI클라우드",
-      "status": "confirmed"
-    },
     {
       "id": "엠에스바이오",
       "name": "엠에스바이오",
