@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
@@ -289,8 +289,8 @@
       "subscriptionStart": "2026-11-04",
       "subscriptionEnd": "2026-11-05",
       "refundDate": "2026-11-09",
-      "listingDate": null,
-      "finalPrice": null,
+      "listingDate": "2026-11-16",
+      "finalPrice": 11000,
       "bandLow": 9400,
       "bandHigh": 11000,
       "minQty": 20,
@@ -298,11 +298,9 @@
         "대신증권"
       ],
       "retailShares": 575000,
-      "retailSharesMax": 690000,
-      "retailEstimated": true,
       "totalShares": 2300000,
       "summary": "반도체·디스플레이 생산장비용 핵심 부품의 정밀가공, 특수표면처리, 정밀세정을 주력으로 하고, 항공기 부품 표면처리와 평면유리 제조장비용 부품 가공·조립도…",
-      "status": "tentative"
+      "status": "confirmed"
     },
     {
       "id": "optonics",
