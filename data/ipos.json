@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-11",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
@@ -309,8 +309,8 @@
       "subscriptionStart": "2026-11-05",
       "subscriptionEnd": "2026-11-06",
       "refundDate": "2026-11-10",
-      "listingDate": null,
-      "finalPrice": null,
+      "listingDate": "2026-11-17",
+      "finalPrice": 12000,
       "bandLow": 10000,
       "bandHigh": 12000,
       "minQty": 20,
@@ -318,11 +318,9 @@
         "한국투자증권"
       ],
       "retailShares": 550000,
-      "retailSharesMax": 660000,
-      "retailEstimated": true,
       "totalShares": 2200000,
       "summary": "유도무기 등 무기체계의 관성항법장치에 들어가는 RLG·FOG 핵심 광학부품을 만드는 광소재 기업입니다",
-      "status": "tentative"
+      "status": "confirmed"
     },
     {
       "id": "al-robot",
@@ -363,6 +361,28 @@
       "retailSharesMax": 1320000,
       "retailEstimated": true,
       "totalShares": 4400000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "엠비디",
+      "name": "엠비디",
+      "market": null,
+      "subscriptionStart": "2026-11-12",
+      "subscriptionEnd": "2026-11-13",
+      "refundDate": "2026-11-17",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 9600,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "하나증권"
+      ],
+      "retailShares": 500000,
+      "retailSharesMax": 600000,
+      "retailEstimated": true,
+      "totalShares": 2000000,
       "summary": null,
       "status": "tentative"
     },
@@ -408,28 +428,6 @@
       "retailSharesMax": 1290000,
       "retailEstimated": true,
       "totalShares": 4300000,
-      "summary": null,
-      "status": "tentative"
-    },
-    {
-      "id": "엠비디",
-      "name": "엠비디",
-      "market": null,
-      "subscriptionStart": "2026-11-12",
-      "subscriptionEnd": "2026-11-13",
-      "refundDate": "2026-11-17",
-      "listingDate": null,
-      "finalPrice": null,
-      "bandLow": 9600,
-      "bandHigh": null,
-      "minQty": null,
-      "brokers": [
-        "하나증권"
-      ],
-      "retailShares": 500000,
-      "retailSharesMax": 600000,
-      "retailEstimated": true,
-      "totalShares": 2000000,
       "summary": null,
       "status": "tentative"
     },
@@ -674,6 +672,29 @@
       "retailSharesMax": 660000,
       "retailEstimated": true,
       "totalShares": 2200000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "마더스제약",
+      "name": "마더스제약",
+      "market": null,
+      "subscriptionStart": "2026-12-08",
+      "subscriptionEnd": "2026-12-09",
+      "refundDate": "2026-12-11",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 11000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "KB증권",
+        "NH투자증권"
+      ],
+      "retailShares": 600000,
+      "retailSharesMax": 720000,
+      "retailEstimated": true,
+      "totalShares": 2400000,
       "summary": null,
       "status": "tentative"
     },
