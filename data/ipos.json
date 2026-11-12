@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11",
+  "updatedAt": "2026-11-12",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
@@ -345,44 +345,43 @@
     {
       "id": "하나에어로다이내믹스",
       "name": "하나에어로다이내믹스",
-      "market": null,
+      "market": "KOSDAQ",
       "subscriptionStart": "2026-11-10",
       "subscriptionEnd": "2026-11-11",
       "refundDate": "2026-11-13",
-      "listingDate": null,
+      "listingDate": "2026-11-20",
       "finalPrice": null,
       "bandLow": 4700,
-      "bandHigh": null,
+      "bandHigh": 5700,
       "minQty": null,
       "brokers": [
         "IBK투자증권"
       ],
       "retailShares": 1100000,
-      "retailSharesMax": 1320000,
-      "retailEstimated": true,
       "totalShares": 4400000,
-      "summary": null,
+      "summary": "항공기,우주선 및 부품 제조업 · 항공기 치공구(39.52%), 항공기 조립(37.41%) 및 항공기부품(22.45%) 등",
       "status": "tentative"
     },
     {
-      "id": "엠비디",
-      "name": "엠비디",
+      "id": "제이앤티지",
+      "name": "제이앤티지",
       "market": null,
       "subscriptionStart": "2026-11-12",
       "subscriptionEnd": "2026-11-13",
       "refundDate": "2026-11-17",
       "listingDate": null,
       "finalPrice": null,
-      "bandLow": 9600,
+      "bandLow": 26400,
       "bandHigh": null,
       "minQty": null,
       "brokers": [
-        "하나증권"
+        "대신증권",
+        "NH투자증권"
       ],
-      "retailShares": 500000,
-      "retailSharesMax": 600000,
+      "retailShares": 1075000,
+      "retailSharesMax": 1290000,
       "retailEstimated": true,
-      "totalShares": 2000000,
+      "totalShares": 4300000,
       "summary": null,
       "status": "tentative"
     },
@@ -409,25 +408,24 @@
       "status": "tentative"
     },
     {
-      "id": "제이앤티지",
-      "name": "제이앤티지",
+      "id": "엠비디",
+      "name": "엠비디",
       "market": null,
       "subscriptionStart": "2026-11-12",
       "subscriptionEnd": "2026-11-13",
       "refundDate": "2026-11-17",
       "listingDate": null,
       "finalPrice": null,
-      "bandLow": 26400,
+      "bandLow": 9600,
       "bandHigh": null,
       "minQty": null,
       "brokers": [
-        "대신증권",
-        "NH투자증권"
+        "하나증권"
       ],
-      "retailShares": 1075000,
-      "retailSharesMax": 1290000,
+      "retailShares": 500000,
+      "retailSharesMax": 600000,
       "retailEstimated": true,
-      "totalShares": 4300000,
+      "totalShares": 2000000,
       "summary": null,
       "status": "tentative"
     },
@@ -610,28 +608,6 @@
       "status": "tentative"
     },
     {
-      "id": "다비오",
-      "name": "다비오",
-      "market": null,
-      "subscriptionStart": "2026-12-01",
-      "subscriptionEnd": "2026-12-02",
-      "refundDate": "2026-12-04",
-      "listingDate": null,
-      "finalPrice": null,
-      "bandLow": 12300,
-      "bandHigh": null,
-      "minQty": null,
-      "brokers": [
-        "대신증권"
-      ],
-      "retailShares": 250000,
-      "retailSharesMax": 300000,
-      "retailEstimated": true,
-      "totalShares": 1000000,
-      "summary": null,
-      "status": "tentative"
-    },
-    {
       "id": "우리투자제1호기업인수목적",
       "name": "우리투자제1호기업인수목적",
       "market": null,
@@ -695,6 +671,28 @@
       "retailSharesMax": 720000,
       "retailEstimated": true,
       "totalShares": 2400000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "다비오",
+      "name": "다비오",
+      "market": null,
+      "subscriptionStart": "2026-12-09",
+      "subscriptionEnd": "2026-12-10",
+      "refundDate": "2026-12-14",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 12300,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "대신증권"
+      ],
+      "retailShares": 250000,
+      "retailSharesMax": 300000,
+      "retailEstimated": true,
+      "totalShares": 1000000,
       "summary": null,
       "status": "tentative"
     },
