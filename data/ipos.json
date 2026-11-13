@@ -1,27 +1,7 @@
 {
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
-    {
-      "id": "엠에스바이오",
-      "name": "엠에스바이오",
-      "market": "KOSDAQ",
-      "subscriptionStart": "2026-10-12",
-      "subscriptionEnd": "2026-10-13",
-      "refundDate": "2026-10-15",
-      "listingDate": "2026-10-22",
-      "finalPrice": 7800,
-      "bandLow": 6800,
-      "bandHigh": 7800,
-      "minQty": null,
-      "brokers": [
-        "KB증권"
-      ],
-      "retailShares": 1000000,
-      "totalShares": 4000000,
-      "summary": "의료용 기기 제조업 · 의료용 인체조직 이식재 및 생체재료 기반 의료기기",
-      "status": "confirmed"
-    },
     {
       "id": "디티에스",
       "name": "디티에스",
@@ -350,7 +330,7 @@
       "subscriptionEnd": "2026-11-11",
       "refundDate": "2026-11-13",
       "listingDate": "2026-11-20",
-      "finalPrice": null,
+      "finalPrice": 5700,
       "bandLow": 4700,
       "bandHigh": 5700,
       "minQty": null,
@@ -360,7 +340,7 @@
       "retailShares": 1100000,
       "totalShares": 4400000,
       "summary": "항공기,우주선 및 부품 제조업 · 항공기 치공구(39.52%), 항공기 조립(37.41%) 및 항공기부품(22.45%) 등",
-      "status": "tentative"
+      "status": "confirmed"
     },
     {
       "id": "제이앤티지",
@@ -430,6 +410,28 @@
       "status": "tentative"
     },
     {
+      "id": "유캐스트",
+      "name": "유캐스트",
+      "market": null,
+      "subscriptionStart": "2026-11-18",
+      "subscriptionEnd": "2026-11-19",
+      "refundDate": "2026-11-23",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 19000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "유진증권"
+      ],
+      "retailShares": 200000,
+      "retailSharesMax": 240000,
+      "retailEstimated": true,
+      "totalShares": 800000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
       "id": "에스에프씨",
       "name": "에스에프씨",
       "market": null,
@@ -449,28 +451,6 @@
       "retailSharesMax": 1500000,
       "retailEstimated": true,
       "totalShares": 5000000,
-      "summary": null,
-      "status": "tentative"
-    },
-    {
-      "id": "유캐스트",
-      "name": "유캐스트",
-      "market": null,
-      "subscriptionStart": "2026-11-18",
-      "subscriptionEnd": "2026-11-19",
-      "refundDate": "2026-11-23",
-      "listingDate": null,
-      "finalPrice": null,
-      "bandLow": 19000,
-      "bandHigh": null,
-      "minQty": null,
-      "brokers": [
-        "유진증권"
-      ],
-      "retailShares": 200000,
-      "retailSharesMax": 240000,
-      "retailEstimated": true,
-      "totalShares": 800000,
       "summary": null,
       "status": "tentative"
     },
@@ -739,24 +719,25 @@
       "status": "tentative"
     },
     {
-      "id": "데스틴파워",
-      "name": "데스틴파워",
+      "id": "태석광학",
+      "name": "태석광학",
       "market": null,
       "subscriptionStart": "2026-12-14",
       "subscriptionEnd": "2026-12-15",
       "refundDate": "2026-12-17",
       "listingDate": null,
       "finalPrice": null,
-      "bandLow": 8000,
+      "bandLow": 17500,
       "bandHigh": null,
       "minQty": null,
       "brokers": [
-        "한국투자증권"
+        "신한투자증권",
+        "대신증권"
       ],
-      "retailShares": 550000,
-      "retailSharesMax": 660000,
+      "retailShares": 619500,
+      "retailSharesMax": 743400,
       "retailEstimated": true,
-      "totalShares": 2200000,
+      "totalShares": 2478000,
       "summary": null,
       "status": "tentative"
     },
@@ -779,6 +760,28 @@
       "retailSharesMax": 844800,
       "retailEstimated": true,
       "totalShares": 2816000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "데스틴파워",
+      "name": "데스틴파워",
+      "market": null,
+      "subscriptionStart": "2026-12-14",
+      "subscriptionEnd": "2026-12-15",
+      "refundDate": "2026-12-17",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 8000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "한국투자증권"
+      ],
+      "retailShares": 550000,
+      "retailSharesMax": 660000,
+      "retailEstimated": true,
+      "totalShares": 2200000,
       "summary": null,
       "status": "tentative"
     }
