@@ -1,27 +1,7 @@
 {
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-14",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
-    {
-      "id": "디티에스",
-      "name": "디티에스",
-      "market": "KOSDAQ",
-      "subscriptionStart": "2026-10-13",
-      "subscriptionEnd": "2026-10-14",
-      "refundDate": "2026-10-16",
-      "listingDate": "2026-10-23",
-      "finalPrice": 18500,
-      "bandLow": 17000,
-      "bandHigh": 18500,
-      "minQty": null,
-      "brokers": [
-        "대신증권"
-      ],
-      "retailShares": 557230,
-      "totalShares": 22251207,
-      "summary": "특수 목적용 기계 제조업 · 산업용 열교환기",
-      "status": "confirmed"
-    },
     {
       "id": "에스케이증권제14호기업인수목적",
       "name": "에스케이증권제14호기업인수목적",
@@ -522,28 +502,6 @@
       "status": "tentative"
     },
     {
-      "id": "genon",
-      "name": "제논",
-      "market": "KOSDAQ",
-      "subscriptionStart": "2026-11-24",
-      "subscriptionEnd": "2026-11-25",
-      "refundDate": "2026-11-27",
-      "listingDate": null,
-      "finalPrice": null,
-      "bandLow": 9700,
-      "bandHigh": 12200,
-      "minQty": 20,
-      "brokers": [
-        "삼성증권"
-      ],
-      "retailShares": 550000,
-      "retailSharesMax": 660000,
-      "retailEstimated": true,
-      "totalShares": 2200000,
-      "summary": "기업이 생성형 AI를 도입·운영·확장하도록 돕는 통합 플랫폼 GenOS를 자체 개발해 라이선스와 맞춤형 AI 에이전트 구축·유지보수, GPU 등 하드웨어…",
-      "status": "tentative"
-    },
-    {
       "id": "에이엔에이치스트럭쳐",
       "name": "에이엔에이치스트럭쳐",
       "market": null,
@@ -716,6 +674,28 @@
       "retailShares": 1000000,
       "totalShares": 4000000,
       "summary": "기초 화학물질 제조업 · 양극재 원료 소재(탄산리튬, MHP 등) 등",
+      "status": "tentative"
+    },
+    {
+      "id": "genon",
+      "name": "제논",
+      "market": "KOSDAQ",
+      "subscriptionStart": "2026-12-14",
+      "subscriptionEnd": "2026-12-15",
+      "refundDate": "2026-12-17",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 9700,
+      "bandHigh": 12200,
+      "minQty": 20,
+      "brokers": [
+        "삼성증권"
+      ],
+      "retailShares": 550000,
+      "retailSharesMax": 660000,
+      "retailEstimated": true,
+      "totalShares": 2200000,
+      "summary": "기업이 생성형 AI를 도입·운영·확장하도록 돕는 통합 플랫폼 GenOS를 자체 개발해 라이선스와 맞춤형 AI 에이전트 구축·유지보수, GPU 등 하드웨어…",
       "status": "tentative"
     },
     {
