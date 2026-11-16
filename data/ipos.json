@@ -1,27 +1,7 @@
 {
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-16",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
-    {
-      "id": "에스케이증권제14호기업인수목적",
-      "name": "에스케이증권제14호기업인수목적",
-      "market": "KOSDAQ",
-      "subscriptionStart": "2026-10-15",
-      "subscriptionEnd": "2026-10-16",
-      "refundDate": "2026-10-20",
-      "listingDate": "2026-10-27",
-      "finalPrice": 2000,
-      "bandLow": 2000,
-      "bandHigh": 2000,
-      "minQty": null,
-      "brokers": [
-        "SK증권"
-      ],
-      "retailShares": 1625000,
-      "totalShares": 6500000,
-      "summary": "금융 지원 서비스업 · 기업인수목적 주식회사",
-      "status": "confirmed"
-    },
     {
       "id": "hanwha-plus-spac-6",
       "name": "한화플러스제6호스팩",
