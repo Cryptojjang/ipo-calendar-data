@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-18",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
@@ -305,24 +305,22 @@
     {
       "id": "엠비디",
       "name": "엠비디",
-      "market": null,
+      "market": "KOSDAQ",
       "subscriptionStart": "2026-11-12",
       "subscriptionEnd": "2026-11-13",
       "refundDate": "2026-11-17",
-      "listingDate": null,
-      "finalPrice": null,
+      "listingDate": "2026-11-24",
+      "finalPrice": 7000,
       "bandLow": 9600,
-      "bandHigh": null,
+      "bandHigh": 11700,
       "minQty": null,
       "brokers": [
         "하나증권"
       ],
       "retailShares": 500000,
-      "retailSharesMax": 600000,
-      "retailEstimated": true,
       "totalShares": 2000000,
-      "summary": null,
-      "status": "tentative"
+      "summary": "그외 기타 전문, 과학 및 기술 서비스업 · 3D 세포배양 플랫폼 및 서비스",
+      "status": "confirmed"
     },
     {
       "id": "제이앤티지",
@@ -372,23 +370,21 @@
     {
       "id": "유캐스트",
       "name": "유캐스트",
-      "market": null,
+      "market": "KOSDAQ",
       "subscriptionStart": "2026-11-18",
       "subscriptionEnd": "2026-11-19",
       "refundDate": "2026-11-23",
-      "listingDate": null,
+      "listingDate": "2026-11-30",
       "finalPrice": null,
       "bandLow": 19000,
-      "bandHigh": null,
+      "bandHigh": 23000,
       "minQty": null,
       "brokers": [
-        "유진증권"
+        "유진투자증권"
       ],
       "retailShares": 200000,
-      "retailSharesMax": 240000,
-      "retailEstimated": true,
       "totalShares": 800000,
-      "summary": null,
+      "summary": "통신 및 방송 장비 제조업 · LTE 및 5G 통신장비",
       "status": "tentative"
     },
     {
@@ -679,6 +675,28 @@
       "status": "tentative"
     },
     {
+      "id": "엠디에스코리아",
+      "name": "엠디에스코리아",
+      "market": null,
+      "subscriptionStart": "2026-12-14",
+      "subscriptionEnd": "2026-12-15",
+      "refundDate": "2026-12-17",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 9500,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "미래에셋증권"
+      ],
+      "retailShares": 562500,
+      "retailSharesMax": 675000,
+      "retailEstimated": true,
+      "totalShares": 2250000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
       "id": "genon",
       "name": "제논",
       "market": "KOSDAQ",
@@ -742,6 +760,28 @@
       "retailSharesMax": 844800,
       "retailEstimated": true,
       "totalShares": 2816000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "이나인페이",
+      "name": "이나인페이",
+      "market": null,
+      "subscriptionStart": "2026-12-16",
+      "subscriptionEnd": "2026-12-17",
+      "refundDate": "2026-12-21",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 7500,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "한국투자증권"
+      ],
+      "retailShares": 1600000,
+      "retailSharesMax": 1920000,
+      "retailEstimated": true,
+      "totalShares": 6400000,
       "summary": null,
       "status": "tentative"
     }
