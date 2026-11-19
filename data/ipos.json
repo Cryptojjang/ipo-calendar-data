@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
@@ -284,7 +284,7 @@
     },
     {
       "id": "하나에어로다이내믹스",
-      "name": "하나에어로다이내믹스",
+      "name": "하나에어로",
       "market": "KOSDAQ",
       "subscriptionStart": "2026-11-10",
       "subscriptionEnd": "2026-11-11",
@@ -589,28 +589,6 @@
       "status": "tentative"
     },
     {
-      "id": "다비오",
-      "name": "다비오",
-      "market": null,
-      "subscriptionStart": "2026-12-09",
-      "subscriptionEnd": "2026-12-10",
-      "refundDate": "2026-12-14",
-      "listingDate": null,
-      "finalPrice": null,
-      "bandLow": 12300,
-      "bandHigh": null,
-      "minQty": null,
-      "brokers": [
-        "대신증권"
-      ],
-      "retailShares": 250000,
-      "retailSharesMax": 300000,
-      "retailEstimated": true,
-      "totalShares": 1000000,
-      "summary": null,
-      "status": "tentative"
-    },
-    {
       "id": "인터엑스",
       "name": "인터엑스",
       "market": null,
@@ -629,6 +607,28 @@
       "retailSharesMax": 900000,
       "retailEstimated": true,
       "totalShares": 3000000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "다비오",
+      "name": "다비오",
+      "market": null,
+      "subscriptionStart": "2026-12-09",
+      "subscriptionEnd": "2026-12-10",
+      "refundDate": "2026-12-14",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 12300,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "대신증권"
+      ],
+      "retailShares": 250000,
+      "retailSharesMax": 300000,
+      "retailEstimated": true,
+      "totalShares": 1000000,
       "summary": null,
       "status": "tentative"
     },
