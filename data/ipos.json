@@ -1,67 +1,7 @@
 {
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
-    {
-      "id": "hanwha-plus-spac-6",
-      "name": "한화플러스제6호스팩",
-      "market": "KOSDAQ",
-      "subscriptionStart": "2026-10-20",
-      "subscriptionEnd": "2026-10-21",
-      "refundDate": "2026-10-23",
-      "listingDate": "2026-10-30",
-      "finalPrice": 2000,
-      "bandLow": 2000,
-      "bandHigh": 2000,
-      "minQty": 20,
-      "brokers": [
-        "한화투자증권"
-      ],
-      "retailShares": 1500000,
-      "totalShares": 6000000,
-      "summary": "다른 회사와의 합병을 유일한 목적으로 설립된 기업인수목적회사입니다",
-      "status": "confirmed"
-    },
-    {
-      "id": "creatz",
-      "name": "크리에이츠",
-      "market": "KOSDAQ",
-      "subscriptionStart": "2026-10-20",
-      "subscriptionEnd": "2026-10-21",
-      "refundDate": "2026-10-23",
-      "listingDate": "2026-10-29",
-      "finalPrice": 15000,
-      "bandLow": 15000,
-      "bandHigh": 18000,
-      "minQty": 20,
-      "brokers": [
-        "삼성증권"
-      ],
-      "retailShares": 350000,
-      "totalShares": 1400000,
-      "summary": "초고속 이미지 처리 기술을 기반으로 골프 론치모니터와 연습·게임용 시뮬레이터 소프트웨어, AI 스윙분석 소프트웨어를 개발·판매하고, 실내골프연습장…",
-      "status": "confirmed"
-    },
-    {
-      "id": "tne-korea",
-      "name": "티앤이코리아",
-      "market": "KOSDAQ",
-      "subscriptionStart": "2026-10-20",
-      "subscriptionEnd": "2026-10-21",
-      "refundDate": "2026-10-23",
-      "listingDate": "2026-10-29",
-      "finalPrice": 15300,
-      "bandLow": 12600,
-      "bandHigh": 15300,
-      "minQty": 20,
-      "brokers": [
-        "신한투자증권"
-      ],
-      "retailShares": 600000,
-      "totalShares": 2400000,
-      "summary": "기계오일을 쓰지 않는 무급유 베어링과 고속 전력전자 기술을 결합한 고효율 고속 터보블로워를 기반으로, 산업용 공기·가스 압축 설비를 개발·제조하는 회사입니다",
-      "status": "confirmed"
-    },
     {
       "id": "intellivix",
       "name": "인텔리빅스",
@@ -782,6 +722,28 @@
       "retailSharesMax": 1920000,
       "retailEstimated": true,
       "totalShares": 6400000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "피지티",
+      "name": "피지티",
+      "market": null,
+      "subscriptionStart": "2026-12-17",
+      "subscriptionEnd": "2026-12-18",
+      "refundDate": "2026-12-22",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 18000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "한국투자증권"
+      ],
+      "retailShares": 350000,
+      "retailSharesMax": 420000,
+      "retailEstimated": true,
+      "totalShares": 1400000,
       "summary": null,
       "status": "tentative"
     }
