@@ -1,27 +1,7 @@
 {
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
-    {
-      "id": "intellivix",
-      "name": "인텔리빅스",
-      "market": "KOSDAQ",
-      "subscriptionStart": "2026-10-21",
-      "subscriptionEnd": "2026-10-22",
-      "refundDate": "2026-10-26",
-      "listingDate": "2026-10-31",
-      "finalPrice": 9000,
-      "bandLow": 7600,
-      "bandHigh": 9000,
-      "minQty": 20,
-      "brokers": [
-        "미래에셋증권"
-      ],
-      "retailShares": 625000,
-      "totalShares": 2500000,
-      "summary": "영상분석 기반 비전 AI와 생성형 AI를 결합한 AI 안전관제 플랫폼을 개발해 공공 안전·산업 현장·스마트시티·국방 분야에 공급하는 회사입니다",
-      "status": "confirmed"
-    },
     {
       "id": "est",
       "name": "이에스티",
