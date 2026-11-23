@@ -1,67 +1,7 @@
 {
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-23",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
-    {
-      "id": "est",
-      "name": "이에스티",
-      "market": "KOSDAQ",
-      "subscriptionStart": "2026-10-22",
-      "subscriptionEnd": "2026-10-23",
-      "refundDate": "2026-10-27",
-      "listingDate": "2026-11-04",
-      "finalPrice": 12400,
-      "bandLow": 10600,
-      "bandHigh": 12400,
-      "minQty": 20,
-      "brokers": [
-        "대신증권"
-      ],
-      "retailShares": 550000,
-      "totalShares": 2200000,
-      "summary": "디스플레이·반도체 제조 공정에서 패널이나 웨이퍼를 정전기력으로 고정하는 부품인 정전척을 개발·제조·판매하고, 쓰던 정전척을 재생하는 사업도 하는 회사입니다",
-      "status": "confirmed"
-    },
-    {
-      "id": "youngkwang",
-      "name": "영광",
-      "market": "KOSDAQ",
-      "subscriptionStart": "2026-10-22",
-      "subscriptionEnd": "2026-10-23",
-      "refundDate": "2026-10-27",
-      "listingDate": "2026-11-02",
-      "finalPrice": 17000,
-      "bandLow": 14000,
-      "bandHigh": 17000,
-      "minQty": 20,
-      "brokers": [
-        "한국투자증권"
-      ],
-      "retailShares": 565000,
-      "totalShares": 2260000,
-      "summary": "금속가공·기계제작 역량을 바탕으로 선박 기관실 모듈·패키지 같은 조선해양 기자재와 플랜트 기자재를 제작하는 회사입니다",
-      "status": "confirmed"
-    },
-    {
-      "id": "lablup",
-      "name": "래블업",
-      "market": "KOSDAQ",
-      "subscriptionStart": "2026-10-22",
-      "subscriptionEnd": "2026-10-23",
-      "refundDate": "2026-10-27",
-      "listingDate": "2026-11-03",
-      "finalPrice": 19000,
-      "bandLow": 19000,
-      "bandHigh": 22000,
-      "minQty": 10,
-      "brokers": [
-        "NH투자증권"
-      ],
-      "retailShares": 545000,
-      "totalShares": 2180000,
-      "summary": "GPU 같은 AI 연산 자원을 잘게 나누거나 묶어 여러 작업에 효율적으로 배분·운영하는 AI 인프라 플랫폼 소프트웨어를 개발·공급하는 회사입니다",
-      "status": "confirmed"
-    },
     {
       "id": "im-spac-1",
       "name": "아이엠스팩1호",
@@ -295,7 +235,7 @@
       "subscriptionEnd": "2026-11-19",
       "refundDate": "2026-11-23",
       "listingDate": "2026-11-30",
-      "finalPrice": null,
+      "finalPrice": 19000,
       "bandLow": 19000,
       "bandHigh": 23000,
       "minQty": null,
@@ -305,7 +245,7 @@
       "retailShares": 200000,
       "totalShares": 800000,
       "summary": "통신 및 방송 장비 제조업 · LTE 및 5G 통신장비",
-      "status": "tentative"
+      "status": "confirmed"
     },
     {
       "id": "에스에프씨",
