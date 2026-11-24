@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-24",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
@@ -383,25 +383,23 @@
     },
     {
       "id": "우리투자제1호기업인수목적",
-      "name": "우리투자제1호기업인수목적",
-      "market": null,
+      "name": "우리투자제1호스팩",
+      "market": "KOSDAQ",
       "subscriptionStart": "2026-12-02",
       "subscriptionEnd": "2026-12-03",
       "refundDate": "2026-12-07",
-      "listingDate": null,
-      "finalPrice": null,
+      "listingDate": "2026-12-14",
+      "finalPrice": 2000,
       "bandLow": 2000,
-      "bandHigh": null,
+      "bandHigh": 2000,
       "minQty": null,
       "brokers": [
         "우리투자증권"
       ],
       "retailShares": 1625000,
-      "retailSharesMax": 1950000,
-      "retailEstimated": true,
       "totalShares": 6500000,
-      "summary": null,
-      "status": "tentative"
+      "summary": "기타 금융업 · 기타 금융업",
+      "status": "confirmed"
     },
     {
       "id": "이노보테라퓨틱스",
