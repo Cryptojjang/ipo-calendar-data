@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
@@ -447,28 +447,6 @@
       "status": "tentative"
     },
     {
-      "id": "인터엑스",
-      "name": "인터엑스",
-      "market": null,
-      "subscriptionStart": "2026-12-09",
-      "subscriptionEnd": "2026-12-10",
-      "refundDate": "2026-12-14",
-      "listingDate": null,
-      "finalPrice": null,
-      "bandLow": 10000,
-      "bandHigh": null,
-      "minQty": null,
-      "brokers": [
-        "한국투자증권"
-      ],
-      "retailShares": 750000,
-      "retailSharesMax": 900000,
-      "retailEstimated": true,
-      "totalShares": 3000000,
-      "summary": null,
-      "status": "tentative"
-    },
-    {
       "id": "다비오",
       "name": "다비오",
       "market": null,
@@ -487,6 +465,28 @@
       "retailSharesMax": 300000,
       "retailEstimated": true,
       "totalShares": 1000000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "인터엑스",
+      "name": "인터엑스",
+      "market": null,
+      "subscriptionStart": "2026-12-09",
+      "subscriptionEnd": "2026-12-10",
+      "refundDate": "2026-12-14",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 10000,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "한국투자증권"
+      ],
+      "retailShares": 750000,
+      "retailSharesMax": 900000,
+      "retailEstimated": true,
+      "totalShares": 3000000,
       "summary": null,
       "status": "tentative"
     },
@@ -640,6 +640,29 @@
       "retailSharesMax": 1920000,
       "retailEstimated": true,
       "totalShares": 6400000,
+      "summary": null,
+      "status": "tentative"
+    },
+    {
+      "id": "범한메카텍",
+      "name": "범한메카텍",
+      "market": null,
+      "subscriptionStart": "2026-12-17",
+      "subscriptionEnd": "2026-12-18",
+      "refundDate": "2026-12-22",
+      "listingDate": null,
+      "finalPrice": null,
+      "bandLow": 22800,
+      "bandHigh": null,
+      "minQty": null,
+      "brokers": [
+        "NH투자증권",
+        "유진증권"
+      ],
+      "retailShares": 2175000,
+      "retailSharesMax": 2610000,
+      "retailEstimated": true,
+      "totalShares": 8700000,
       "summary": null,
       "status": "tentative"
     },
