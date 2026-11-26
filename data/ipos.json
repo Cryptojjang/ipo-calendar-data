@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
@@ -404,23 +404,21 @@
     {
       "id": "이노보테라퓨틱스",
       "name": "이노보테라퓨틱스",
-      "market": null,
+      "market": "KOSDAQ",
       "subscriptionStart": "2026-12-07",
       "subscriptionEnd": "2026-12-08",
       "refundDate": "2026-12-10",
-      "listingDate": null,
+      "listingDate": "2026-12-16",
       "finalPrice": null,
       "bandLow": 20000,
-      "bandHigh": null,
+      "bandHigh": 24000,
       "minQty": null,
       "brokers": [
         "한국투자증권"
       ],
       "retailShares": 550000,
-      "retailSharesMax": 660000,
-      "retailEstimated": true,
       "totalShares": 2200000,
-      "summary": null,
+      "summary": "의약품 제조업 · AI 플랫폼 Deepzema를 이용한 신약개발 : 궤양성대장염 치료제 (INV-008, INV-101), 흉터 치료제(INV-001)",
       "status": "tentative"
     },
     {
