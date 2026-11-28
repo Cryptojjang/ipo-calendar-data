@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27",
+  "updatedAt": "2026-11-28",
   "source": "KIND(한국거래소) 공모기업현황, DART 증권신고서 자동 수집",
   "items": [
     {
@@ -275,25 +275,23 @@
     },
     {
       "id": "신영해피투모로우제12호기업인수목적",
-      "name": "신영해피투모로우제12호기업인수목적",
-      "market": null,
+      "name": "신영스팩12호",
+      "market": "KOSDAQ",
       "subscriptionStart": "2026-11-24",
       "subscriptionEnd": "2026-11-25",
       "refundDate": "2026-11-27",
-      "listingDate": null,
-      "finalPrice": null,
+      "listingDate": "2026-12-03",
+      "finalPrice": 2000,
       "bandLow": 2000,
-      "bandHigh": null,
+      "bandHigh": 2000,
       "minQty": null,
       "brokers": [
         "신영증권"
       ],
       "retailShares": 1562500,
-      "retailSharesMax": 1875000,
-      "retailEstimated": true,
       "totalShares": 6250000,
-      "summary": null,
-      "status": "tentative"
+      "summary": "금융 지원 서비스업 · 기업인수합병",
+      "status": "confirmed"
     },
     {
       "id": "케이엠에프",
